@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Gabrielle Correa 👋
 
-- 🌱 Estudando Desenvolvimento Web Full Stack
+- 🌱 Estudando Desenvolvimento Web Full Stack JAVA
 - 💻 HTML e CSS
 - 👩‍💻 JavaScript
 - 🖥️ React.js
